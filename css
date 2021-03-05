@@ -1,0 +1,57 @@
+
+
+ul {
+  list-style: none;
+  display: flex;
+  background-color: rgb(85, 80, 80);
+  color: rgb(190, 189, 189);
+  padding : auto;
+
+}
+
+.carousel {
+width: 97%;
+  height: 200px;
+  background-color: rgb(231, 219, 219);
+}
+
+strong{
+font-size:30px;
+}
+
+#fellows {
+  text-align: center;
+}
+
+article {
+  height: 200px;
+  width: 32%;
+  background-color: rgb(231, 219, 219);
+  display: inline-block;
+}
+
+input {
+  width: 90%;
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+textarea {
+width: 90%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+height : 60px;
+}
+
+.onglet {
+
+background-color : rgb(255,255,255);
+height : 20px;
+}
+
+.border {
+border-top : 1px solid black;
+}
